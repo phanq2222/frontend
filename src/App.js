@@ -1,7 +1,12 @@
 import logo from './logo.svg';
+// css
 import './App.css';
 
 function App() {
+
+  // hjavacript
+  
+  // html
   return (
     <div className="App">
       <header className="App-header">
